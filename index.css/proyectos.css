@@ -1,0 +1,111 @@
+.botones{
+    width: 150px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 2px solid tomato;
+    color: tomato;
+    background-color: #ffffff;
+    border-radius: 6px;
+    margin-left: 20px;
+    
+}
+
+.botones:hover{
+    box-shadow: 13px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+body{
+   
+   background-color: tomato;
+   
+}
+
+.cuadro{
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    height: 550px;
+}
+
+.foto{
+    width: 380px;
+    height: 460px;
+    border: 3px solid tomato;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;   
+    font-size: 60px; 
+    padding-left: 185px;
+    margin-bottom: 0;
+}
+
+p{
+    width: 500px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 30px;
+    margin-top: 0;
+    justify-content: center;
+    
+}
+
+
+
+
+ul{
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+/*.vl {
+    width: 50px;
+    margin-left: 265px;
+    border-left: 3px solid tomato;
+    height: 20px;
+  }*/
+
+footer{
+    height: 60px;
+    background-color: tomato;
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+}
+
+i{
+    margin-left: 70px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.projects{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    
+}
+
+
+.boton{
+    width: 130px;
+    height: 130px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color:grey;
+    
+    border-radius: 6px;
+    margin-left: 30px;
+}

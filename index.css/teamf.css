@@ -1,0 +1,80 @@
+button{
+    width: 200px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: tomato;
+    border-radius: 6px;
+    
+}
+
+button:hover{
+    transform: rotate(25deg);
+}
+
+body{
+   
+   background-color: tomato;
+   
+}
+
+.cuadro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    height: 550px;
+}
+
+.foto{
+    width: 380px;
+    height: 460px;
+    border: 3px solid tomato;
+    margin-left: 60px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;   
+    font-size: 60px; 
+    padding-left: 160px;
+}
+
+p{
+    width: 500px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 30px;
+    
+}
+
+
+
+
+ul{
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.vl {
+    width: 50px;
+    margin-left: 265px;
+    border-left: 3px solid tomato;
+    height: 20px;
+  }
+
+footer{
+    height: 60px;
+    background-color: tomato;
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+}
+
+i{
+    margin-left: 70px;
+    color: #ffffff;
+    font-size: 20px;
+}
